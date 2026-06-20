@@ -26,7 +26,44 @@
   .numbers {
     margin-left: 61px;
   }
+  .footer-container {
+    display: flex;
+    flex-direction: column;
+  }
+}
+@media (max-width: 1200px) {
+  .text {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  h2 {
+    text-align: center;
+  }
+
+  article img {
+    width: 80%;
+  }
+  article p {
+    width: 80%;
+  }
+  .numbers {
+    margin-left: 61px;
+  }
   .month {
     margin-left: 61px;
+  }
+  .main2 {
+    align-items: center;
+    justify-content: center;
+  }
+  .main2 img {
+    width: 90%;
+  }
+  .cards {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
   }
 }

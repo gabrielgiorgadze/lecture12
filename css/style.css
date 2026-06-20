@@ -57,6 +57,7 @@ main {
   display: flex;
   flex-direction: column;
   gap: 36px;
+  padding-bottom: 64px;
 }
 .numbers {
   width: 53px;
@@ -121,4 +122,41 @@ article p {
 .logos {
   display: flex;
   gap: 16px;
+}
+.main-container2 {
+  background-color: #f6f6f6#F6F6F6;
+  max-width: 1220px;
+  width: 100%;
+  margin: 0 auto;
+}
+.main2 div {
+  margin-top: 16px;
+}
+.card {
+  border-radius: 22px;
+  background: #fff;
+}
+.icon {
+  padding: 16px 16px;
+  width: 74px;
+  height: 73px;
+  background-color: #cdf0fe;
+  border-radius: 22px;
+  margin-right: 12px;
+}
+.card {
+  width: 393px;
+  height: 89px;
+  display: flex;
+  align-items: center;
+  padding-left: 8px;
+}
+.cards {
+  display: flex;
+  gap: 20px;
+  margin-top: 36px;
+  padding-bottom: 64px;
+}
+.main2 {
+  padding-top: 64px;
 }
