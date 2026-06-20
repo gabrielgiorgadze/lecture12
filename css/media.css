@@ -66,4 +66,12 @@
     align-items: center;
     justify-content: center;
   }
+  .contacticons {
+    display: flex;
+    flex-direction: column;
+  }
+  .main3 {
+    display: flex;
+    flex-direction: column;
+  }
 }

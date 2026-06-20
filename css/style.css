@@ -160,3 +160,78 @@ article p {
 .main2 {
   padding-top: 64px;
 }
+h3 {
+  color: #00a3e0;
+  font-family: "TBC Contractica";
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+  text-transform: uppercase;
+  padding-bottom: 16px;
+}
+.texts {
+  display: flex;
+  width: 450px;
+  margin-bottom: 64px;
+}
+.contacttext {
+  display: inline-flex;
+  flex-direction: column;
+  gap: 16px;
+  width: 259px;
+}
+h1 {
+  color: #000;
+  font-family: "TBC Contractica";
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 26px; /* 144.444% */
+}
+.last {
+  display: flex;
+  gap: 16px;
+}
+.contacticons {
+  display: inline-flex;
+  flex-direction: column;
+  gap: 16px;
+  width: 320px;
+}
+/*.map {
+  display: inline-block;
+  width: 730px;
+  height: 400px;
+  margin-left: 500px;
+  margin-top: -290px;
+}*/
+.main3 {
+  padding-bottom: 93px;
+  display: flex;
+  gap: 0px;
+}
+.main-container3 {
+  border: 2px solid yellow;
+  max-width: 610px;
+  width: 100%;
+  margin: 0 auto;
+  padding-top: 64px;
+  padding-bottom: 64px;
+  display: flex;
+  flex-direction: column;
+  gap: 36px;
+  padding-bottom: 64px;
+}
+.main-container4 {
+  border: 2px solid purple;
+  max-width: 610px;
+  width: 100%;
+  margin: 0 auto;
+  padding-top: 64px;
+  padding-bottom: 64px;
+  display: flex;
+  flex-direction: column;
+  gap: 36px;
+  padding-bottom: 64px;
+}
